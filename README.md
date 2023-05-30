@@ -9,7 +9,7 @@
 
 
 ## HCMC University of Education
-##Faculty of Information Technology
-##Machine Learning final project
-##Instructor: DR. Ngo Quoc Viet
-##Student: Thai Thi Kim Yen - 47.01.104.250
+## Faculty of Information Technology
+## Machine Learning final project
+## Instructor: DR. Ngo Quoc Viet
+## Student: Thai Thi Kim Yen - 47.01.104.250
